@@ -1,0 +1,468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"out",
+				"outTable"
+			],
+			[
+				"camp",
+				"campsitesLayer"
+			],
+			[
+				"new",
+				"newIconSize"
+			],
+			[
+				"campsite",
+				"campsitesStyle"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"hike",
+				"hikeIcon"
+			],
+			[
+				"canoe",
+				"canoeIcon"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"ep",
+				"epCluster"
+			],
+			[
+				"entry",
+				"entryPointsLayer"
+			],
+			[
+				"div",
+				"divIcon"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"style",
+				"styleForFeature"
+			],
+			[
+				"feature",
+				"feature"
+			],
+			[
+				"EP_",
+				"EP_Type"
+			],
+			[
+				"get",
+				"getEntryPointTypeColor"
+			],
+			[
+				"sty",
+				"styleForFeature"
+			],
+			[
+				"Entry",
+				"entryPointsStyle"
+			],
+			[
+				"entrypo",
+				"entryPointsStyle"
+			],
+			[
+				"campsites",
+				"campsitesStyle"
+			],
+			[
+				"lakes",
+				"lakesLayer"
+			],
+			[
+				"on",
+				"onEachFeature"
+			],
+			[
+				"shirt",
+				"shirt"
+			],
+			[
+				"shir",
+				"shirtSleeve"
+			],
+			[
+				"shi",
+				"shirtSleeve"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/Scripts/imageEXIFREAD.py",
+			"settings":
+			{
+				"buffer_size": 4845,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Scripts/imageEXIFREADall.py",
+			"settings":
+			{
+				"buffer_size": 907,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"python",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"outline",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jeff/AppData/Roaming/Sublime Text 3/Packages/User/python2.sublime-build",
+		"/E/my_map/data/geojson/bwcaw_portages.json",
+		"/E/my_map/index.html",
+		"/E/my_map/data/geojson/bwcaw_lakes.json",
+		"/E/my_map/data/geojson/bwcaw_entryPoints.json",
+		"/E/my_map/data/geojson/bwcaw.json",
+		"/E/my_map/data/geojson/bwcaw_rivers.json",
+		"/E/my_map/data/geojson/bwcaw_campsites.json",
+		"/E/my_map/lib/leaflet/leaflet.css",
+		"/F/my_map/icons/Pictograms-nps-canoe-access.svg",
+		"/F/my_map/index_backup.html",
+		"/F/my_map/mStylesheet",
+		"/F/my_map/data/bwcaw_quetico_lakes.geojson",
+		"/F/my_map/data/entryPoints.geojson",
+		"/F/my_map/data/geojson/bwcaw_entryPoints.json",
+		"/F/my_map/data/recgov/bwcaw_general.json",
+		"/F/Scripts/data.text",
+		"/F/my_map/index.html",
+		"/F/STBW/STBW/Disbrow/general_data/python_scripts/pdf_to_text.py",
+		"/C/hysplit4/guicode/hysplit4.tcl",
+		"/C/Users/CSTBW/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/CSTBW/Documents/Disbrow/Disbrow/jrd/esriTut/shirtSize.js",
+		"/C/Users/CSTBW/Documents/Disbrow/Disbrow/jrd/esriTut/iceCream.js",
+		"/C/Users/CSTBW/Documents/Disbrow/Disbrow/jrd/esriTut/test.js",
+		"/C/Users/CSTBW/Documents/Disbrow/Disbrow/jrd/esriTut/murderMyst.js",
+		"/C/Users/CSTBW/Documents/Disbrow/Disbrow/jrd/esriTut/esriTutBasicsJSWebApps",
+		"/C/Users/CSTBW/AppData/Roaming/Sublime Text 3/Packages/User/jsNode.sublime-build",
+		"/C/Users/CSTBW/Documents/Disbrow/Disbrow/jrd/esriTut/numMusicians.js",
+		"/C/Users/CSTBW/Documents/Disbrow/Disbrow/jrd/esriTut/evenOdd.js",
+		"/C/Users/CSTBW/Documents/Disbrow/Disbrow/jrd/esriTut/weather.js",
+		"/C/Users/CSTBW/Documents/Disbrow/Disbrow/jrd/esriTut/enoughMoney.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"popup",
+			"map",
+			"div-icon",
+			"my-div-icon",
+			"var",
+			"yellow",
+			" {",
+			"var",
+			"opacity",
+			"Planner",
+			"shirtLength",
+			"room",
+			"(/*",
+			"numMusicians"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/Scripts/imageEXIFREAD.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"SL.21.region_keys":
+							[
+							],
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/Scripts/imageEXIFREADall.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python2.sublime-build",
+	"project": "bwcaw_trip_planner.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\my_map\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 85.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
