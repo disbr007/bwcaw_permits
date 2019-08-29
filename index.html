@@ -53,6 +53,7 @@
 					return 'green';
 				}
 			}
+
 			function entryPointsStyle(feature) {
 				return {
 					fillColor: getEntryPointTypeColor(feature.properties.EP_Type),
@@ -85,6 +86,7 @@
 					fillOpacity: 1
 				};
 			}
+
 			function portagesStyle(feature) {
 				return {
 					color: 'yellow',
@@ -134,16 +136,15 @@
 
             var bwcawLayer = L.geoJson(bwcaw,
             	{style : bwcawStyle});
-            var lakesLayer = L.geoJson(lakes, {
-			    style: lakesStyle,
+            var lakesLayer = L.geoJson(lakes, 
+            	{style: lakesStyle,
 			    //onEachFeature: LakeHover, // adds a hover popup with lake name - defined above
 			});
+
             var riversLayer = L.geoJson(rivers, {
             	style : riversStyle,
             	//onEachFeature: RiverHover,
             });
-			
-			
 			var epIcons = L.Icon.extend({
 				options: {
 					iconSize: [11, 11],
