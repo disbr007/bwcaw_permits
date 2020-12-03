@@ -225,10 +225,10 @@
 			//entryPointsLayer.addTo(map);
 			epCluster.addTo(map);
 
-			map.fitBounds(LakersLayer.getBounds());
+			map.fitBounds(lakesLayer.getBounds());
 
 			// Events
-			/*map.on('zoomend', function() {
+			map.on('zoomend', function() {
 				var currentZoom = map.getZoom();
 				
 				var newIconSize = currentZoom / 8;
@@ -239,14 +239,17 @@
 					}
 				});
 				campsitesLayer.setIcon(campsiteResizeIcons);
-			});*/
+			});
 
 		</script>
 	</body>
 </html>
 
 <!-- Comments:
-	test
+	TODO:
+		Dynamic icon sizes:
+			https://gis.stackexchange.com/questions/216558/leaflet-resize-markers-in-layer-when-zoom-in
+			https://stackoverflow.com/questions/36880922/leaflet-custom-marker-icon-scale-to-zoom
 	basemap provider options:
 		CartoDB.DarkMatterNoLabels
 		Thunderforest.Outdoors
