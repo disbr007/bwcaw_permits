@@ -143,3 +143,9 @@ clarie_repos
 # User config
 config/db_conf.json
 config/aws_creds.json
+
+# backup files
+index_backup.html
+
+# scratch files
+rec_gov_api.py
